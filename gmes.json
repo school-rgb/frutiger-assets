@@ -3308,11 +3308,6 @@
 		"thumb": "thumbs/granny-3.avif"
 	},
 	{
-		"file_name": "gravity-mod.html",
-		"title": "Gravity Mod",
-		"thumb": "thumbs/gravity-mod.avif"
-	},
-	{
 		"file_name": "grimace-birthday.html",
 		"title": "Grimace Birthday",
 		"thumb": "thumbs/grimace-birthday.avif"
@@ -3327,25 +3322,15 @@
 		"title": "Growden.io",
 		"thumb": "thumbs/growden.io.avif"
 	},
-	{
-		"file_name": "gta.html",
-		"title": "Gta",
-		"thumb": "thumbs/gta.avif"
+{
+		"file_name": "gta-vice city.html",
+		"title": "Gta vice city",
+		"thumb": "https://th.bing.com/th/id/OIP.Pmolcnl5ONrrs3zSiNYBcwHaEo?w=269&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
 	},
 	{
-		"file_name": "gta-2.html",
-		"title": "Gta 2",
-		"thumb": "thumbs/gta-2.avif"
-	},
-	{
-		"file_name": "gta-china.html",
-		"title": "Gta China",
-		"thumb": "thumbs/gta-china.avif"
-	},
-	{
-		"file_name": "gta-file-name.html",
-		"title": "Gta File Name",
-		"thumb": "thumbs/gta-file-name.avif"
+		"file_name": "gta-3.html",
+		"title": "Gta 3",
+		"thumb": "https://th.bing.com/th/id/OIP.KIU0T_OTNY-o67Mw7Ft5IgHaEL?w=328&h=185&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
 	},
 	{
 		"file_name": "guess-their-answer.html",
@@ -5346,37 +5331,37 @@
 	{
 		"file_name": "pokemon-black.html",
 		"title": "Pokemon Black",
-		"thumb": "thumbs/pokemon-black.avif"
+		"thumb": "https://th.bing.com/th/id/OIP.70OFAr4QTJngVC0cNzjxvwHaEK?w=299&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
 	},
 	{
 		"file_name": "pokemon-black-2html.html",
 		"title": "Pokemon Black 2html",
-		"thumb": "thumbs/pokemon-black-2html.avif"
+		"thumb": "https://th.bing.com/th/id/R.ecc759023a13d5b6857fe7c022307f40?rik=ezMu4xBJSlx7eA&pid=ImgRaw&r=0"
 	},
 	{
 		"file_name": "pokemon-blaze-black-2-redux.html",
 		"title": "Pokemon Blaze Black 2 Redux",
-		"thumb": "thumbs/pokemon-blaze-black-2-redux.avif"
+		"thumb": "https://tse4.mm.bing.net/th/id/OIP.ZLWq3L5NcmSOzNwWu9IwXQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
 	},
 	{
 		"file_name": "pokemon-blue.html",
 		"title": "Pokemon Blue",
-		"thumb": "thumbs/pokemon-blue.avif"
+		"thumb": "https://th.bing.com/th/id/OIP.oSE22H7es3Buaxd-_WH2YgHaHa?w=184&h=184&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
 	},
 	{
 		"file_name": "pokemon-diamond.html",
 		"title": "Pokemon Diamond",
-		"thumb": "thumbs/pokemon-diamond.avif"
+		"thumb": "https://progameguides.com/wp-content/uploads/2021/05/pokemon-brilliant-diamond-featured.png?w=900"
 	},
 	{
 		"file_name": "pokemon-emerald-random.html",
 		"title": "Pokemon Emerald Random",
-		"thumb": "thumbs/pokemon-emerald-random.avif"
+		"thumb": "https://th.bing.com/th/id/OIP.4gWjt_NV9-rziVy-jahhDQHaEK?w=286&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
 	},
 	{
 		"file_name": "pokemon-gaia.html",
 		"title": "Pokemon Gaia",
-		"thumb": "thumbs/pokemon-gaia.avif"
+		"thumb": "https://th.bing.com/th/id/OIP.xCEmkFcA_HXckWrx_1g55QHaEK?w=285&h=180&c=7&r=0&o=7&dpr=1.4&pid=1.7&rm=3"
 	},
 	{
 		"file_name": "pokemon-heart-gold.html",
