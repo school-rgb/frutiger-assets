@@ -1066,7 +1066,7 @@
 	{
 		"file_name": "buckshot-roulette.html",
 		"title": "Buckshot Roulette",
-		"thumb": "thumbs/buckshot-roulette.avif"
+		"thumb": "https://cdn.akamai.steamstatic.com/steam/apps/2835570/library_hero.jpg"
 	},
 	{
 		"file_name": "build-a-big-army.html",
@@ -3601,6 +3601,11 @@
 		"file_name": "hover-racer-drive.html",
 		"title": "Hover Racer Drive",
 		"thumb": "thumbs/hover-racer-drive.avif"
+	},
+		{
+		"file_name": "hollow-knight.html",
+		"title": "hollow Knight",
+		"thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/library_600x900.jpg"
 	},
 	{
 		"file_name": "hula-hoop-race.html",
@@ -8205,7 +8210,7 @@
 	{
 		"file_name": "hollow-knight-silksong.html",
 		"title": "Hollow Knight Silksong",
-		"thumb": "thumbs/hollow-knight-silksong.avif"
+		"thumb": "https://cdn.akamai.steamstatic.com/steam/apps/1030300/library_hero.jpg"
 	},
 	{
 		"file_name": "stardew-valley.html",
