@@ -3278,14 +3278,14 @@
 		"thumb": "thumbs/google-feud.avif"
 	},
 	{
+		"file_name": "https://www.google.com/fbx?fbx=snake_arcade&fbxga=1&hl=en&origin=www.google.com",
+		"title": "Google snake",
+		"thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSIOr69p_yoM_sAcut_Gi-ib2uM5l1SwluvFbJvozm-A&s=10"
+	},
+	{
 		"file_name": "gorilla-tag.html",
 		"title": "Gorilla Tag",
 		"thumb": "thumbs/gorilla-tag.avif"
-	},
-	{
-		"file_name": "grand-theft-auto-advance.html",
-		"title": "Grand Theft Auto Advance",
-		"thumb": "thumbs/grand-theft-auto-advance.avif"
 	},
 	{
 		"file_name": "granny.html",
