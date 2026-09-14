@@ -2884,7 +2884,7 @@
 	{
 		"file_name": "friday-night-funkin.html",
 		"title": "Friday Night Funkin",
-		"thumb": "thumbs/friday-night-funkin.avif"
+		"thumb": "https://tse1.mm.bing.net/th/id/OIP.z7quq_mfyyZLQ69-ILgVZwHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
 	},
 	{
 		"file_name": "friday-night-funkin-vs-impostor-v4.html",
@@ -5112,6 +5112,11 @@
 		"file_name": "peaks-of-yore.html",
 		"title": "Peaks of Yore",
 		"thumb": "thumbs/peaks-of-yore.avif"
+	},
+	{
+		"file_name": "peak.html",
+		"title": "Peak",
+		"thumb": "https://gpstatic.com/acache/79/12/1/us/t620x300-0517ddf85e62c409deee8d47a6037f98.jpg"
 	},
 	{
 		"file_name": "peggle.html",
