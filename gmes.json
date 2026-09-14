@@ -272,7 +272,7 @@
 	{
 		"file_name": "Angry-birds-epic.html",
 		"title": "Angry birds epic ",
-		"thumb": "thumbs/angry-birds-epic.avif"
+		"thumb": "https://tse1.mm.bing.net/th/id/OIP.Mh_G86QTnCNrg_IwlFwdawHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
 	},
 	{
 		"file_name": "animal-crossing-wild-world.html",
@@ -7832,10 +7832,20 @@
 		"title": "Ultra Kill",
 		"thumb": "thumbs/ultra-kill.avif"
 	},
+		{
+		"file_name": "Untitled Goose Game (2).html",
+		"title": "Untitled Goose Game",
+		"thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/837470/library_600x900.jpg"
+	},
 	{
 		"file_name": "underneath.html",
 		"title": "Underneath",
 		"thumb": "thumbs/underneath.avif"
+	},
+	{
+		"file_name": "Undertale (1).html",
+		"title": "Undertale",
+		"thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391540/library_600x900.jpg"
 	},
 	{
 		"file_name": "undertale-yellow.html",
@@ -8200,7 +8210,7 @@
 	{
 		"file_name": "hollow-knight-silksong.html",
 		"title": "Hollow Knight Silksong",
-		"thumb": "https://cdn.akamai.steamstatic.com/steam/apps/1030300/library_hero.jpg"
+		"thumb": "https://cdn.akamai.steamstatic.com/steam/apps/1030300/library_600x900.jpg"
 	},
 	{
 		"file_name": "stardew-valley.html",
