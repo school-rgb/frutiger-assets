@@ -1,12 +1,21 @@
 <!DOCTYPE html><html lang="en-us">  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PXHK7Q7G3Z"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-PXHK7Q7G3Z');</script>  <head>    <base href="https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/angry-bird/">    <meta charset="utf-8">    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">    <title>Unity Web Player | Epic</title>    <link rel="shortcut icon" href="TemplateData/favicon.ico">    <link rel="stylesheet" href="TemplateData/style.css">  </head>  <body>    <div id="unity-container" class="unity-desktop">      <canvas id="unity-canvas" width=960 height=600 tabindex="-1"></canvas>      <div id="unity-loading-bar">        <div id="unity-logo"></div>        <div id="unity-progress-bar-empty">          <div id="unity-progress-bar-full"></div>        </div>      </div>      <div id="unity-warning"> </div>      <div id="unity-footer">        <div id="unity-logo-title-footer"></div>        <div id="unity-fullscreen-button"></div>        <div id="unity-build-title">Epic</div>      </div>    </div>    <script>    window.fileMergerConfig = {      files: [        { name: 'EpicWeb.data', parts: 8 },        { name: 'EpicWeb.wasm', parts: 2 },      ],      basePath: 'Build/',      debug: true    };  </script>    <script>      (function () {  "use strict";
   const defaultConfig = {    files: [],    basePath: "",    debug: true,  };
+
   const config = Object.assign(    {},    defaultConfig,    window.fileMergerConfig || {},  );  window.mergedFiles = window.mergedFiles || {};
+
   const mergeStatus = {};  const mergeProgress = {};
+
   let loadingDiv;  let loadingContent;  let totalBytesLoaded = 0;
 
-  function initializeUI() {    loadingDiv = document.createElement("div");    loadingDiv.id = "file-merger-loading";    loadingDiv.style.cssText = `      position: fixed;      top: 50%;      left: 50%;      transform: translate(-50%, -50%);      background: rgba(0, 0, 0, 0.9);      color: white;      padding: 30px 40px;      border-radius: 10px;      font-family: monospace;      font-size: 16px;      z-index: 10000;      min-width: 300px;      text-align: center;    `;
+  function initializeUI() {    loadingDiv = document.createElement("div");    loadingDiv.id = "file-merger-loading";    loadingDiv.style.cssText = `      position: fixed;      top: 0;      left: 0;      width: 100vw;      height: 100vh;      background: #000000;      color: white;      z-index: 10000;      display: flex;      flex-direction: column;      align-items: center;      justify-content: flex-start;      padding-top: 100px;    `;
 
-    loadingContent = document.createElement("div");    loadingContent.id = "file-merger-content";    loadingDiv.appendChild(loadingContent);    document.body.appendChild(loadingDiv);  }
+    const img = document.createElement("img");
+    img.src = "https://cdn2.steamgriddb.com/file/sgdb-cdn/logo_thumb/365aa59e779547d7e081b220f8fa67ac.png";
+    img.style.cssText = `      max-width: 320px;      height: auto;      margin-bottom: 30px;    `;
+    loadingDiv.appendChild(img);
+
+    loadingContent = document.createElement("div");    loadingContent.id = "file-merger-content";    loadingContent.style.cssText = `      font-family: monospace;      font-size: 16px;      text-align: center;    `;
+    loadingDiv.appendChild(loadingContent);    document.body.appendChild(loadingDiv);  }
 
   function updateLoadingDisplay() {    if (!loadingContent) return;
 
@@ -138,3 +147,5 @@
       document.body.appendChild(script);
 
     </script>  </body></html>
+```[cite: 1]
+  
